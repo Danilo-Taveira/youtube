@@ -26,7 +26,7 @@
 ### Emulador Android
 
 <p align="start">
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="images/resultado.png" width="200px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="images/resultado.jpg" width="200px">
 </p>
 
 ---
